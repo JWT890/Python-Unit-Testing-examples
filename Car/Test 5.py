@@ -1,7 +1,7 @@
 
 from Car import *
 
-infile = open(r"C:\Users\JW\PycharmProjects\IS310\User Car Dealership.csv")
+infile = open(r"C:\Users\PycharmProjects\User Car Dealership.csv")
 count = 0
 next(infile)
 for line in infile:
