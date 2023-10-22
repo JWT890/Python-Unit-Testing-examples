@@ -22,7 +22,7 @@ import csv
 outputTable = [] #formats the data
 columns = ["JURISDICTION NAME","COUNT PARTICIPANTS","COUNT FEMALE","PERCENT FEMALE","COUNT MALE", "PERCENT MALE"] #determines the column names
 def zip_code_data():
-    with open(r"C:\Users\JW\PycharmProjects\IS310\Demographic_Stats_By_Zip_Code.csv") as csv_file: #opens the spreadsheet in pycharm
+    with open(r"C:\Users\Demographic_Stats_By_Zip_Code.csv") as csv_file: #opens the spreadsheet in pycharm
         reader = csv.reader(csv_file) #reads the csv file
         line_Count = 0 #starts reading the lines
         for row in reader:
@@ -42,7 +42,7 @@ def zip_code_data():
 
     columnHeader = ", ".join(columns) #adds a comma between the columns
     print(columnHeader) #prints each column of data
-    with open(r"C:\Users\JW\PA05 Processing CSV Files.csv", "w") as output_file: #starts the process of exporting the file to Excel
+    with open(r"C:\Users\PA05 Processing CSV Files.csv", "w") as output_file: #starts the process of exporting the file to Excel
         output_file.writelines(columnHeader) #splits the data into columns
         output_file.write('\n') #separates each section
         for record in outputTable:
