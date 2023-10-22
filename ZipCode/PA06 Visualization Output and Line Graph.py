@@ -65,7 +65,7 @@ def line_graph():
     #plt.set_xtickslabels(x, rotation=90)
     plt.title("Female and Male Survey Participants") #names the top of the graph
     plt.tight_layout()
-    plt.savefig(r"C:\Users\JW\Desktop\OutputGraph.png") #outputs the graph into a png file at file location
+    plt.savefig(r"C:\Users\Desktop\OutputGraph.png") #outputs the graph into a png file at file location
     plt.show() #shows the graph as a png file
 
 def main():
