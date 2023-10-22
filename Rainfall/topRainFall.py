@@ -1,4 +1,4 @@
-input_file = open("C:/Users/JW/Desktop/annual rainfall.txt")
+input_file = open("C:/Users/annual rainfall.txt")
 out_file = open("toprainfall_places.txt", "w")
 count = 0
 places = {}
