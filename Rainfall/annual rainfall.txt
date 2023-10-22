@@ -1,0 +1,24 @@
+Days	Place	Inches	mm	Region
+116	Bay Minette	68.9	1750	Alabama Gulf Coast
+114	Dauphin Island	61.4	1559	Alabama Gulf Coast
+118	Fairhope 	67.9	1724	Alabama Gulf Coast
+115	Mobile 	66.2	1680	Alabama Gulf Coast
+114	Atmore 	62.7	1592	South Alabama 
+108	Auburn 	53.6	1361	South Alabama 
+102	Demopolis Dam 	54.5	1385	South Alabama 
+1010	Dothan 	54	1371	South Alabama 
+92	Enterprise 	54.3	1379	South Alabama 
+101	Eufaula Wildlife Refuge	50.1	1274	South Alabama 
+105	Jackson 	60.2	1529	South Alabama 
+104	Montgomery 	53.1	1348	South Alabama 
+89	Troy 	52.1	1322	South Alabama 
+112	Anniston 	49.7	1262	Central Alabama
+116	Bankhead Lake Dam 	59.8	1520	Central Alabama
+117	Birmingham 	53.7	1364	Central Alabama
+105	Gadsden 	54.6	1387	Central Alabama
+99	Tuscaloosa 	55	1396	Central Alabama
+113	Bridgeport 	60.1	1527	North Alabama
+1010	Decatur 	53.4	1356	North Alabama
+114	Guntersville 	53.3	1355	North Alabama
+117	Huntsville 	54.3	1380	North Alabama
+115	Muscle Shoals 	53.2	1351	North Alabama

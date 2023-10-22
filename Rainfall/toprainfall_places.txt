@@ -1,0 +1,24 @@
+Place	mm
+Bay Minette	1750
+Fairhope	1724
+Mobile	1680
+Atmore	1592
+Dauphin Island	1559
+Jackson	1529
+Bridgeport	1527
+Bankhead Lake Dam	1520
+Tuscaloosa	1396
+Gadsden	1387
+Demopolis Dam	1385
+Huntsville	1380
+Enterprise	1379
+Dothan	1371
+Birmingham	1364
+Auburn	1361
+Decatur	1356
+Guntersville	1355
+Muscle Shoals	1351
+Montgomery	1348
+Troy	1322
+Eufaula Wildlife Refuge	1274
+Anniston	1262
