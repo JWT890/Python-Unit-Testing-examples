@@ -57,7 +57,7 @@ def bar_graph():
     plt.legend() #prints the bar graph legend
     plt.tight_layout()
     plt.show() #shows the bar graph
-    plt.savefig(r"C:\Users\JW\Desktop\\Bar Graph.png") #saves the graph as a png file
+    plt.savefig(r"C:\Users\Desktop\Bar Graph.png") #saves the graph as a png file
 
 def main():
     bar_graph()
