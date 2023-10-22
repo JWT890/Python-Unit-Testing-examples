@@ -21,7 +21,7 @@ import csv
 
 student_dict = {}
 
-with open("C:\\Users\\JW\\Desktop\\student testscores.txt", 'r') as file: #opens the file
+with open("C:\\Users\student testscores.txt", 'r') as file: #opens the file
     reader = csv.reader(file) #reads the file
     for row in reader: #reads by row
         print(row)
