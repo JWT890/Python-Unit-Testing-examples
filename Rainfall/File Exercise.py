@@ -9,7 +9,7 @@ input_file.close()
 #C:\Users\JW\Desktop\IS310\File Exercise.py
 #or
 #with open("my_input_data.txt") as input_file:
-input_file = open("C:\\Users\\JW\Desktop\\annual rainfall.txt")
+input_file = open("C:\\Users\\annual rainfall.txt")
 number_of_lines = 0
 header = next(input_file)
 print(header)
